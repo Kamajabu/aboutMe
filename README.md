@@ -1,10 +1,16 @@
 # aboutMe
 About me and my projects
 
-
 **Table of Contents**
 
-[TOC]
+- [iOS](#ios)
+  - [BitBayWatcher (iOS + watchOS)](#bitbaywatcher-ios--watchos)
+  - [Aviation related project (Details Restricted)](#aviation-related-project-details-restricted)
+  - [Kupie.se (iOS)](#kupiese-ios)
+- [Android](#android)
+  - [Kupie.se (Android)](#kupiese-android)
+  - [I Hate Space - Action mobile game](#i-hate-space---action-mobile-game)
+  - [AttApp](#attapp)
 
 # iOS
 
@@ -37,7 +43,7 @@ For a year and a half I was working on aviation related projects, among other th
 - Conducted a workshops and presentations about reactive programming.
 - Made over 2k commits, 500 Pull Requests, and added almost 200k lines of code.
 
-## Kupie.se 
+## Kupie.se (iOS)
 ***01.2017 – 06.2017***
 
 Mobile app (iOS) for website kupie.se. 
@@ -85,7 +91,8 @@ Libs I've used through the development process:
 - Mockingjay.
 
 # Android
-## Kupie.se 
+
+## Kupie.se (Android)
 ***06.2016 – 12.2016***
 
 Mobile app (Android) for website kupie.se. 
@@ -132,7 +139,7 @@ Libs I've used through the development process:
 
 I've created an Android game and posted it in the Google Play store. The game was created using the libgdx framework. This is a fully code-based solution, with no additional editors. Thanks to that approach, I've learned how the algorithms responsible for game play work and how to optimize applications, how to manage graphics modules and much more. I also worked with advertising networks such as AdMob, StartApp, Chartboost. I tested the application and designed the UX myself.
 
-## AttApp 
+## AttApp
 
 University project for selecting nearby attractions based on user preferences.
 
@@ -143,5 +150,3 @@ Among my tasks were:
 - Displaying to user nearby places according to his choices,
 - Using Analytic Hierarchy Process and Promethee Algorithms for choosing best place to for user according to his preferences,
 - Designing and implementing multi-table interface using fragments.
-
-
