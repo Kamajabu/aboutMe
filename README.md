@@ -1,5 +1,4 @@
-# aboutMe
-About me and my projects
+# Kamil Buczel - Kamajabu - Projects
 
 **Table of Contents**
 
