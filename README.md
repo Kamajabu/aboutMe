@@ -21,6 +21,7 @@ Application for watching current offers posted on BitBay market, focused on quic
 Among most interesting features, there are:
 - WatchConnectivity allowing adding watched currencies from iPhone, which modifies items displayed on AppleWatch,
 - Managing and restoring state between session, default state for first run included,
+- Complications for easy access to newest offers included, chosen based on last currency type checked by the user,
 - MVVM architecure, view models unit tested,
 - Network layer and data managent based on reactive streams, eg. auto update and displaying remaining time (count down included) until next data fetch,
 - Use of generics, protocols, default implementations, shared ViewModels and Models - reducing redundancy between phone and watch layers.
