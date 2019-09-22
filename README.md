@@ -41,6 +41,7 @@ For a year and a half I was working on aviation related projects, among other th
 - Closely cooperated with product owners, testers and other programmers in agile process of creating software from idea to client delivery, divided into 2 weeks sprints,
 - Taken a part in ongoing process of improving code base, by refactoring and adapting architecture based on continuously changing requirements,
 - Conducted a workshops and presentations about reactive programming.
+- Views created with auto-layout, without XIBs or storyboards,
 - Made over 2k commits, 500 Pull Requests, and added almost 200k lines of code.
 
 ## Kupie.se (iOS)
